@@ -94,7 +94,11 @@ My long-term academic goal is to pursue a **fully funded Master's degree in AI**
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amkhodaei83&show_icons=true&theme=radium&rank_icon=github&border_radius=10" alt="GitHub Stats" width="48%" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amkhodaei83&theme=radical" alt="GitHub Stats" width="48%" />
+
+
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amkhodaei83&theme=radium&border_radius=10" alt="GitHub Streak" width="48%" />
 </div>
 <br>
