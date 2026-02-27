@@ -118,6 +118,6 @@ My long-term academic goal is to pursue a **fully funded Master's degree in AI**
 | Platform | Link |
 |---|---|
 | **Email** | [amkhossein@gmail.com](mailto:amkhossein@gmail.com) |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-hossein-khodaei) |
-| **Telegram** | [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Amkhodaei) |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/amir-hossein-khodaei](https://www.linkedin.com/in/amir-hossein-khodaei-2a0580303/)) |
+| **Telegram** | [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Amkhodaei83) |
 
