@@ -95,11 +95,11 @@ My long-term academic goal is to pursue a **fully funded Master's degree in AI**
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amkhodaei83&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amir-hossein-khodaei&theme=radical" alt="GitHub Stats" width="48%" />
 
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amkhodaei83&theme=radium&border_radius=10" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amir-hossein-khodaei&theme=radium&border_radius=10" alt="GitHub Streak" width="48%" />
 </div>
 <br>
 <div align="center">
