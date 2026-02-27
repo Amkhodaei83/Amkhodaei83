@@ -105,9 +105,9 @@ My long-term academic goal is to pursue a **fully funded Master's degree in AI**
 <div align="center">
   <!-- THE SNAKE ANIMATION WILL APPEAR HERE ONCE THE GITHUB ACTION IS SETUP -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amkhodaei83/Amkhodaei83/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amkhodaei83/Amkhodaei83/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Amkhodaei83/Amkhodaei83/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amir-hossein-khodaei/amir-hossein-khodaei/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amir-hossein-khodaei/amir-hossein-khodaei/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amir-hossein-khodaei/amir-hossein-khodaei/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
